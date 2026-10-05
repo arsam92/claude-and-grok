@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/council.js": {
+      "maxDuration": 60
+    }
+  }
+}
